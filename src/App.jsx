@@ -7,10 +7,7 @@ function App() {
       <div className="app">
 
         <TodoWrapper />
-        <div className='footer'>
-          <p>You have 0 to do</p>
-        </div>
-
+      
       </div>
     </>
   )

@@ -61,7 +61,11 @@ export const TodoWrapper = () => {
           />
          )
         )}
-      
+
+        <div className='footer'>
+          <p>You have {todos.length} task to do</p>
+        </div>
+
     </>
   )
 }

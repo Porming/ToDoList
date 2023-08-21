@@ -98,13 +98,9 @@ li > label {
   color: white;
 }
 
-.button_edit {
-  color: #4147D5;
-  
-}
-
-.button_delete {
-  color: #D62828;
+img {
+  width: 18px;
+  height: 18px;
 }
 
 .footer {
